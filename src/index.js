@@ -1,6 +1,8 @@
 class GuessingGame {
   constructor() {
     throw new Error('Not implemented');
+
+    
   }
   /*
   setRange(min, max) { }
